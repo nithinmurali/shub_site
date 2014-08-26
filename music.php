@@ -185,10 +185,9 @@ function MM_swapImage() {
     }
 
     $files = array();
-      echo $top;
+     
     foreach (scandir($directory) as $file) {
         if ( $top == $file) { 
-        echo $file;
         echo ' <li><a href="#" data-src="songs/'. $file .'">'. substr($file,0,strrpos($file,'.')) .'</a></li>';
         }
     }
@@ -236,11 +235,11 @@ function MM_swapImage() {
     }
 
     $files = array();
-      echo $top;
+    
     foreach (scandir($directory) as $file) {
         if ( $top == $file) { 
-        echo $file;
-          echo ' <div><a src="songs/'.$file.'" ><font color="#CCFFFF" face="Harlow Solid Italic" class="ws20">&nbsp; '.substr($file,0,strrpos($file,'.')).'</font></a></div>
+        
+          echo ' <div><a href="songs/'.$file.'" ><font color="#CCFFFF" face="Harlow Solid Italic" class="ws20">&nbsp; '.substr($file,0,strrpos($file,'.')).'</font></a></div>
                  <div><font color="#CCFFFF" face="Harlow Solid Italic" class="ws20"><BR></font></div>';
         }
     }
@@ -249,7 +248,7 @@ function MM_swapImage() {
         if ('.' === $file) continue;
         if ('..' === $file) continue;
         if ( $top === $file) continue;
-          echo ' <div><a src="songs/'.$file.'" ><font color="#CCFFFF" face="Harlow Solid Italic" class="ws20">&nbsp; '.substr($file,0,strrpos($file,'.')).'</font></a></div>
+          echo ' <div><a href="songs/'.$file.'" ><font color="#CCFFFF" face="Harlow Solid Italic" class="ws20">&nbsp; '.substr($file,0,strrpos($file,'.')).'</font></a></div>
                  <div><font color="#CCFFFF" face="Harlow Solid Italic" class="ws20"><BR></font></div>';
     }
 

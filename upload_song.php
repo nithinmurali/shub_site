@@ -2,7 +2,7 @@
 $allowedExts = array("mp3", "wav");
 $temp = explode(".", $_FILES["file"]["name"]);
 $extension = end($temp);
-
+$_POST['name'] =  $_POST['name'] .'.'. $extension;
 if (in_array($extension, $allowedExts)) {
   if ($_FILES["file"]["error"] > 0) {
     echo "Return Code: " . $_FILES["file"]["error"] . "<br>";
