@@ -1,0 +1,12 @@
+<Files admin.php>
+        Satisfy any
+        Order deny,allow
+        Allow from all
+        Allow from 127.0.0.1
+
+        AuthType Basic
+        AuthName "private"
+        AuthUserFile /var/www/images/.htpasswd
+        AuthGroupFile /dev/null
+        Require valid-user
+    </Files>

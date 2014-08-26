@@ -1,0 +1,950 @@
+<site version="3.0" pa="1"><css/><components/><page id="p350480562" pageindex="0" name="home" pp="1" cp="1"><body generator="0" bgimage="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgpreview="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgfixed="fixed" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="1" bgoutput="images/design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgsoutput="" bsp="1"><Component type="3" id="image1" zorder="2" filename="image350601109" left="178" top="12" width="426" height="73" originwidth="348" originheight="60" src="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" thumbname="thumb354616312" resamplename="img354616328" exportfilename="images/41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" fp="1" lp="1"/><Component type="4" id="shape1" zorder="1" filename="shape351229015" width="1330" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeCQI1G.gif" left="0" top="11" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape351229015.gif" lp="1"/><Component type="2" id="text1" zorder="3" filename="text351387593" width="410" height="78" html="" left="241" top="25" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="page://p350480562" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" class="ws22"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqoAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpCYXVoYXVzIDkzBFNpemUCFgVTdHlsZQsGZnNCb2xkAAVDb2xvcgTM
+//8AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGCkJhdWhhdXMg
+OTMEU2l6ZQIWBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYKQmF1aGF1cyA5MwRTaXplAhYFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpTSFVCSEFOS0lUDQo1
+IDEgLTEgMSAwIDANCiANCjQgMSAtMSAxIDAgMA0KUkFUSE9SRQ0K
+</rvf></Component><Component type="21" id="slideshow1" zorder="4" filename="slideshow352762578" files="WSB://images\Up2.jpg,WSB://images\1614620_10202604197499880_1792810656_o.jpg,WSB://images\flute2.jpg,WSB://images\10358925_10202984246360864_6112000312851976070_o.jpg,WSB://images\DSC_9384.jpg" links=",,,," titles=",,,," showbutton="1" duration="5" titleposition="0" titlecolor="" titlebgcolor="" previewfile="WSB://images\Up2.jpg" width="774" height="451" left="256" top="112" fp="1" subfolder="images/" configfilename="homeslideshow1" lp="1"/><Component type="12" id="html1" zorder="5" filename="html353937000" script=" &lt;style&gt;
+      body { color: #666; font-family: sans-serif; line-height: 1.4; }
+      h1 { color: #444; font-size: 1.2em; padding: 14px 2px 12px; margin: 0px; }
+      h1 em { font-style: normal; color: #999; }
+      a { color: #888; text-decoration: none; }
+      #wrapper { width: 400px; margin: 40px auto; }
+
+      ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 460px; border-top: 1px solid #ccc; font-size: 0.9em; }
+      ol li { position: relative; margin: 0px; padding: 9px 2px 10px; border-bottom: 1px solid #ccc; cursor: pointer; }
+      ol li a { display: block; text-indent: -3.3ex; padding: 0px 0px 0px 20px; }
+      li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
+      li.playing a { color: #000; }
+      li.playing:before { content: '?'; width: 14px; height: 14px; padding: 3px; line-height: 14px; margin: 0px; position: absolute; left: -24px; top: 9px; color: #000; font-size: 13px; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
+
+      #shortcuts { position: fixed; bottom: 0px; width: 100%; color: #666; font-size: 0.9em; margin: 60px 0px 0px; padding: 20px 20px 15px; background: #f3f3f3; background: rgba(240, 240, 240, 0.7); }
+      #shortcuts div { width: 460px; margin: 0px auto; }
+      #shortcuts h1 { margin: 0px 0px 6px; }
+      #shortcuts p { margin: 0px 0px 18px; }
+      #shortcuts em { font-style: normal; background: #d3d3d3; padding: 3px 9px; position: relative; left: -3px;
+        -webkit-border-radius: 4px; -moz-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px;
+        -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -o-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); }
+
+      @media screen and (max-device-width: 480px) {
+        #wrapper { position: relative; left: -3%; }
+        #shortcuts { display: none; }
+      }
+    &lt;/style&gt;
+
+&lt;script src=&quot;audio.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
+   &lt;script&gt;   audiojs.events.ready(); &lt;/script&gt;
+
+
+  &lt;script&gt;
+      $(function() {
+        // Setup the player to autoplay the next track
+        var a = audiojs.createAll({
+          trackEnded: function() {
+            var next = $('ol li.playing').next();
+            if (!next.length) next = $('ol li').first();
+            next.addClass('playing').siblings().removeClass('playing');
+            audio.load($('a', next).attr('data-src'));
+            audio.play();
+          }
+        });
+
+        // Load in the first track
+        var audio = a[0];
+            first = $('ol a').attr('data-src');
+        $('ol li').first().addClass('playing');
+        audio.load(first);
+
+        // Load in a track on click
+        $('ol li').click(function(e) {
+          e.preventDefault();
+          $(this).addClass('playing').siblings().removeClass('playing');
+          audio.load($('a', this).attr('data-src'));
+          audio.play();
+        });
+        // Keyboard shortcuts
+        $(document).keydown(function(e) {
+          var unicode = e.charCode ? e.charCode : e.keyCode;
+             // right arrow
+          if (unicode == 39) {
+            var next = $('li.playing').next();
+            if (!next.length) next = $('ol li').first();
+            next.click();
+            // back arrow
+          } else if (unicode == 37) {
+            var prev = $('li.playing').prev();
+            if (!prev.length) prev = $('ol li').last();
+            prev.click();
+            // spacebar
+          } else if (unicode == 32) {
+            audio.playPause();
+          }
+        })
+      });
+    &lt;/script&gt;
+  &lt;div id=&quot;wrapper&quot;&gt;
+   &lt;audio preload&gt;&lt;/audio&gt;
+      &lt;ol&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; data-src=&quot;http://shubhankit.tk/files/Pani%20Da%20Rang.mp3&quot;&gt;Pani Da Rang&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; data-src=&quot;http://shubhankit.tk/files/yaaron.mp3&quot;&gt;Yaaron Dosti&lt;/a&gt;&lt;/li&gt;
+       
+      &lt;/ol&gt;
+      &lt;/div&gt;
+    " width="424" height="312" left="887" top="570" fp="1" lp="1"/><Component type="10" id="roundrect5" zorder="6" filename="roundrect478501031" width="628" height="219" fillstyle="0" spborder="0" fromcolor="#000000" shapetype="1" radius="20" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeV13QT.gif" left="256" top="632" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" fp="1" exportfilename="images/roundrect478501031.gif" lp="1"/><Component type="3" id="image2" zorder="7" filename="image478601078" left="256" top="591" width="286" height="44" originwidth="286" originheight="44" src="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_286_44_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_286_44_75_22_0.50_1.20_0.png" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb488638359" resamplename="img488638359" exportfilename="images/41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_286_44_75_22_0.50_1.20_0.png" fp="1" lp="1"/><Component type="2" id="text7" zorder="8" filename="text478708875" width="170" height="25" html="" left="270" top="603" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" linkurl="page://p350480562" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Chaparral Pro" style="font-size:24px;"&gt;&lt;B&gt;Latest News&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Chaparral Pro" class="ws18"&gt;&lt;B&gt;Latest News&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1DaGFwYXJyYWwgUHJvBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTGF0
+ZXN0IE5ld3MNCg==
+</rvf></Component><Component type="4" id="shape2" zorder="9" filename="shape478861531" width="252" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shape38FDC.gif" left="270" top="638" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape478861531.gif" fp="1" lp="1"/><Component type="3" id="image3" zorder="10" filename="image478965515" left="270" top="659" width="130" height="130" originwidth="130" originheight="130" src="WSB://images\5da6ee_fe1eb15746ad4e92a017be35c511443f.jpg_srz_p_130_130_75_22_0.50_1.20_0.jpg" previewfile="WSB://images\5da6ee_fe1eb15746ad4e92a017be35c511443f.jpg_srz_p_130_130_75_22_0.50_1.20_0.jpg" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb488638375" resamplename="img488638375" exportfilename="images/5da6ee_fe1eb15746ad4e92a017be35c511443f.jpg_srz_p_130_130_75_22_0.50_1.20_0.jpg" fp="1" lp="1"/><Component type="2" id="text6" zorder="11" filename="text478982531" width="360" height="141" html="" left="426" top="652" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:24px;"&gt;&lt;B&gt;Samjhawan (Reprise) Released&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="PMingLiU" style="font-size:24px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Anton" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Adobe Heiti Std R" style="font-size:24px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Adobe Heiti Std R" style="font-size:16px;"&gt;Finally I realeased Cover version of very popular song Samjhawan. For this version whole music direction, arranging, production and singing is done by me :) &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws18"&gt;&lt;B&gt;Samjhawan (Reprise) Released&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="PMingLiU" class="ws18"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Anton" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Adobe Heiti Std R" class="ws18"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Adobe Heiti Std R" class="ws12"&gt;Finally I realeased Cover version of very popular song Samjhawan. For this version whole music direction, arranging, production and singing is done by me :) &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpIAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBbnRvbgRTaXplAhIFQ29sb3IHBmNsQXF1YQABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBghQTWluZ0xpVQRTaXplAhIFU3R5bGULBmZz
+Qm9sZAAFQ29sb3IHBmNsQXF1YQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZv
+bnROYW1lBhFBZG9iZSBIZWl0aSBTdGQgUgRTaXplAhIFQ29sb3IHBmNsQXF1YQABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBhFBZG9iZSBIZWl0aSBTdGQgUgRTaXpl
+AgwFQ29sb3IHBmNsQXF1YQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnRO
+YW1lBgRQbGF5BFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVhAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0KU2Ftamhhd2FuIChSZXByaXNlKSBSZWxl
+YXNlZA0KNCAxIDAgMCAwIDANCiANCjMgMSAwIDAgMCAwDQoNCjUgMSAwIDAgMCAwDQogDQo2IDEg
+MCAwIDAgMA0KRmluYWxseSBJIHJlYWxlYXNlZCBDb3ZlciB2ZXJzaW9uIG9mIHZlcnkgcG9wdWxh
+ciBzb25nIFNhbWpoYXdhbi4gRm9yIHRoaXMgdmVyc2lvbiB3aG9sZSBtdXNpYyBkaXJlY3Rpb24s
+IGFycmFuZ2luZywgcHJvZHVjdGlvbiBhbmQgc2luZ2luZyBpcyBkb25lIGJ5IG1lIDopIA0K
+</rvf></Component><Component type="4" id="shape3" zorder="12" filename="shape479820265" width="774" height="53" bgcolor="#000000" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeS2R94.gif" left="255" top="889" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape479820265.gif" lp="1"/><Component type="2" id="text9" zorder="13" filename="text480131984" width="111" height="35" html="" left="310" top="901" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVHdpdHRlcg0K
+</rvf></Component><Component type="3" id="image4" zorder="14" filename="image480193875" left="269" top="900" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" thumbname="thumb488638390" resamplename="img488638390" exportfilename="images/01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/><Component type="2" id="text10" zorder="15" filename="text480210250" width="95" height="24" html="" left="398" top="904" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRm9s
+bG93IG1lDQo=
+</rvf></Component><Component type="3" id="image5" zorder="16" filename="image480368203" left="478" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638406" resamplename="img488638406" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/><Component type="2" id="text11" zorder="17" filename="text480386875" width="111" height="35" html="" left="781" top="900" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRmFjZWJvb2sNCg==
+</rvf></Component><Component type="3" id="image6" zorder="18" filename="image480386890" left="740" top="899" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" thumbname="thumb488638421" resamplename="img488638421" exportfilename="images/b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="2" id="text12" zorder="19" filename="text480386890" width="95" height="24" html="" left="887" top="903" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQmVj
+b21lIGEgZmFuDQo=
+</rvf></Component><Component type="3" id="image7" zorder="20" filename="image480386890" left="990" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638437" resamplename="img488638437" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="12" id="html2" zorder="0" filename="html486463906" script="&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;" width="200" height="125" left="49" top="64" fp="1" lp="1"/><Component type="12" id="html3" zorder="21" filename="html486483796" script="&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Shubhankit.Rathore&quot; data-width=&quot;200&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;" width="240" height="42" left="569" top="589" fp="1" lp="1"/><Component type="5" id="nav1" zorder="22" filename="nav490332500" fontname="Play" fontsize="14" fontcolor="16777164" fontstyle="1" activecolor="39423" navspace="5" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="25" normalimage="WSB://images\rectb01in.gif" mouseoverimage="WSB://images\rectb01over.gif" mouseoversound="" navtext0="Home" navurl0="page://p350480562" navtarget0="" navstate0="0" navtext1="Music" navurl1="page://p481058703" navtarget1="" navstate1="0" navtext2="Photos" navurl2="page://p483320171" navtarget2="" navstate2="0" navtext3="Contact" navurl3="page://p487036812" navtarget3="" navstate3="0" navtarget4="" navcount="4" width="740" height="25" preview="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\Nav80NEE" left="279" top="76" exportfilename="images/nav490332500" exportsound="" fp="1" lp="1"/></body></page><page id="p481058703" pageindex="1" name="music" pp="1" cp="1"><body generator="0" bgimage="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgpreview="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgfixed="fixed" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="1" bgoutput="images/design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgsoutput="" bsp="1"><Component type="4" id="shape1" zorder="0" filename="shape481058765" width="1330" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shape0MRL3.gif" left="0" top="11" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape481058765.gif" lp="1"/><Component type="2" id="text1" zorder="2" filename="text481058765" width="410" height="78" html="" left="241" top="25" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="page://p350480562" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" class="ws22"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqoAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpCYXVoYXVzIDkzBFNpemUCFgVTdHlsZQsGZnNCb2xkAAVDb2xvcgTM
+//8AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGCkJhdWhhdXMg
+OTMEU2l6ZQIWBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYKQmF1aGF1cyA5MwRTaXplAhYFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpTSFVCSEFOS0lUDQo1
+IDEgLTEgMSAwIDANCiANCjQgMSAtMSAxIDAgMA0KUkFUSE9SRQ0K
+</rvf></Component><Component type="12" id="html1" zorder="6" filename="html481058750" script=" &lt;style&gt;
+      body { color: #666; font-family: sans-serif; line-height: 1.4; }
+      h1 { color: #444; font-size: 1.2em; padding: 14px 2px 12px; margin: 0px; }
+      h1 em { font-style: normal; color: #999; }
+      a { color: #888; text-decoration: none; }
+      #wrapper { width: 400px; margin: 40px auto; }
+
+      ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 460px; border-top: 1px solid #ccc; font-size: 0.9em; }
+      ol li { position: relative; margin: 0px; padding: 9px 2px 10px; border-bottom: 1px solid #ccc; cursor: pointer; }
+      ol li a { display: block; text-indent: -3.3ex; padding: 0px 0px 0px 20px; }
+      li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
+      li.playing a { color: #000; }
+      li.playing:before { content: '?'; width: 14px; height: 14px; padding: 3px; line-height: 14px; margin: 0px; position: absolute; left: -24px; top: 9px; color: #000; font-size: 13px; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
+
+      #shortcuts { position: fixed; bottom: 0px; width: 100%; color: #666; font-size: 0.9em; margin: 60px 0px 0px; padding: 20px 20px 15px; background: #f3f3f3; background: rgba(240, 240, 240, 0.7); }
+      #shortcuts div { width: 460px; margin: 0px auto; }
+      #shortcuts h1 { margin: 0px 0px 6px; }
+      #shortcuts p { margin: 0px 0px 18px; }
+      #shortcuts em { font-style: normal; background: #d3d3d3; padding: 3px 9px; position: relative; left: -3px;
+        -webkit-border-radius: 4px; -moz-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px;
+        -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -o-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); }
+
+      @media screen and (max-device-width: 480px) {
+        #wrapper { position: relative; left: -3%; }
+        #shortcuts { display: none; }
+      }
+    &lt;/style&gt;
+
+&lt;script src=&quot;audio.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
+   &lt;script&gt;   audiojs.events.ready(); &lt;/script&gt;
+
+
+  &lt;script&gt;
+      $(function() {
+        // Setup the player to autoplay the next track
+        var a = audiojs.createAll({
+          trackEnded: function() {
+            var next = $('ol li.playing').next();
+            if (!next.length) next = $('ol li').first();
+            next.addClass('playing').siblings().removeClass('playing');
+            audio.load($('a', next).attr('data-src'));
+            audio.play();
+          }
+        });
+
+        // Load in the first track
+        var audio = a[0];
+            first = $('ol a').attr('data-src');
+        $('ol li').first().addClass('playing');
+        audio.load(first);
+
+        // Load in a track on click
+        $('ol li').click(function(e) {
+          e.preventDefault();
+          $(this).addClass('playing').siblings().removeClass('playing');
+          audio.load($('a', this).attr('data-src'));
+          audio.play();
+        });
+        // Keyboard shortcuts
+        $(document).keydown(function(e) {
+          var unicode = e.charCode ? e.charCode : e.keyCode;
+             // right arrow
+          if (unicode == 39) {
+            var next = $('li.playing').next();
+            if (!next.length) next = $('ol li').first();
+            next.click();
+            // back arrow
+          } else if (unicode == 37) {
+            var prev = $('li.playing').prev();
+            if (!prev.length) prev = $('ol li').last();
+            prev.click();
+            // spacebar
+          } else if (unicode == 32) {
+            audio.playPause();
+          }
+        })
+      });
+    &lt;/script&gt;
+  &lt;div id=&quot;wrapper&quot;&gt;
+   &lt;audio preload&gt;&lt;/audio&gt;
+      &lt;ol&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; data-src=&quot;http://shubhankit.tk/files/Pani%20Da%20Rang.mp3&quot;&gt;Pani Da Rang&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; data-src=&quot;http://shubhankit.tk/files/yaaron.mp3&quot;&gt;Yaaron Dosti&lt;/a&gt;&lt;/li&gt;
+       
+      &lt;/ol&gt;
+      &lt;/div&gt;
+    " width="404" height="353" left="709" top="215" fp="1" lp="1"/><Component type="4" id="shape3" zorder="3" filename="shape481058718" width="774" height="53" bgcolor="#000000" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeSKUN6.gif" left="255" top="889" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape481058718.gif" lp="1"/><Component type="3" id="image2" zorder="5" filename="image481252828" left="200" top="166" width="299" height="44" originwidth="299" originheight="44" src="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb488638593" resamplename="img488638609" exportfilename="images/41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" fp="1" lp="1"/><Component type="10" id="roundrect5" zorder="4" filename="roundrect481261843" width="917" height="638" fillstyle="0" spborder="0" fromcolor="#000000" shapetype="1" radius="20" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeLJEOB.gif" left="201" top="210" bordercolor="#808080" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" fp="1" exportfilename="images/roundrect481261843.gif" lp="1"/><Component type="2" id="text6" zorder="7" filename="text481439171" width="96" height="36" html="" left="224" top="174" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Georgia" style="font-size:27px;"&gt;&lt;B&gt;Music&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Georgia" class="ws20"&gt;&lt;B&gt;Music&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdHZW9yZ2lhBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xB
+cXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTXVzaWMNCg==
+</rvf></Component><Component type="2" id="text7" zorder="8" filename="text481659625" width="466" height="49" html="" left="226" top="236" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Jokerman" style="font-size:27px;"&gt;Download My Songs here :&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Jokerman" class="ws20"&gt;Download My Songs here :&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBghKb2tlcm1hbgRTaXplAhQFQ29sb3IEzP//AAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkRvd25sb2FkIE15IFNvbmdzIGhlcmUgOg0K
+</rvf></Component><Component type="2" id="text8" zorder="9" filename="text481826218" width="150" height="90" html="Double click to edit text" left="224" top="344" fp="1" lp="1" backup="1"/><Component type="2" id="text13" zorder="10" filename="text481859859" width="422" height="253" html="" left="229" top="324" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Harlow Solid Italic" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Harlow Solid Italic" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhNIYXJsb3cgU29saWQgSXRhbGljBFNpemUCFAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCg0K
+</rvf></Component><Component type="2" id="text15" zorder="11" filename="text482142812" width="361" height="274" html="" left="230" top="306" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Harlow Solid Italic" style="font-size:27px;"&gt;1.&amp;nbsp; Samjhawan (Reprise)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Harlow Solid Italic" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Harlow Solid Italic" style="font-size:27px;"&gt;2.&amp;nbsp; Tum Hi Ho&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Harlow Solid Italic" class="ws20"&gt;1.&amp;nbsp; Samjhawan (Reprise)&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Harlow Solid Italic" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Harlow Solid Italic" class="ws20"&gt;2.&amp;nbsp; Tum Hi Ho&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhNIYXJsb3cgU29saWQgSXRhbGljBFNpemUCFAVDb2xvcgTM//8AAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDMgMCAwIDAgMA0KMS4gIFNhbWpoYXdhbiAo
+UmVwcmlzZSkNCg0KMi4gIFR1bSBIaSBIbw0K
+</rvf></Component><Component type="3" id="image3" zorder="12" filename="image482760015" left="634" top="314" width="29" height="28" originwidth="800" originheight="770" src="WSB://images\download-55555button.jpg" previewfile="WSB://images\download-55555button.jpg" thumbname="thumb488638609" resamplename="img488638625" exportfilename="images/download-55555button.jpg" fp="1" lp="1"/><Component type="3" id="image8" zorder="13" filename="image482782421" left="634" top="376" width="29" height="28" originwidth="800" originheight="770" src="WSB://images\download-55555button.jpg" previewfile="WSB://images\download-55555button.jpg" thumbname="thumb488638625" resamplename="img488638640" exportfilename="images/download-55555button.jpg" fp="1" lp="1"/><Component type="4" id="shape2" zorder="14" filename="shape483245968" width="252" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeBRS0S.gif" left="223" top="211" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape483245968.gif" fp="1" lp="1"/><Component type="12" id="html2" zorder="15" filename="html486521750" script="&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Shubhankit.Rathore&quot; data-width=&quot;200&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;" width="240" height="42" left="520" top="160" notlimitsize="0" fp="1" lp="1"/><Component type="12" id="html3" zorder="16" filename="html488198171" script="&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;" width="200" height="125" left="49" top="64" fp="1" lp="1"/><Component type="5" id="nav1" zorder="17" filename="nav489781468" fontname="Play" fontsize="14" fontcolor="16777164" fontstyle="1" activecolor="39423" navspace="5" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="25" normalimage="WSB://images\rectb01in.gif" mouseoverimage="WSB://images\rectb01over.gif" mouseoversound="" navtext0="Home" navurl0="page://p350480562" navtarget0="" navstate0="0" navtext1="Music" navurl1="page://p481058703" navtarget1="" navstate1="0" navtext2="Photos" navurl2="page://p483320171" navtarget2="" navstate2="0" navtext3="Contact" navurl3="page://p487036812" navtarget3="" navstate3="0" navtarget4="" navcount="4" width="740" height="25" preview="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\NavU8LJ4" left="279" top="76" exportfilename="images/nav489781468" exportsound="" fp="1" lp="1"/><Component type="2" id="text11" zorder="18" filename="text490486234" width="111" height="35" html="" left="781" top="900" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRmFjZWJvb2sNCg==
+</rvf></Component><Component type="3" id="image6" zorder="19" filename="image490486234" left="740" top="899" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" thumbname="thumb488638421" resamplename="img488638421" exportfilename="images/b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="2" id="text12" zorder="20" filename="text490486234" width="95" height="24" html="" left="887" top="903" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQmVj
+b21lIGEgZmFuDQo=
+</rvf></Component><Component type="3" id="image7" zorder="21" filename="image490486250" left="990" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638437" resamplename="img488638437" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="2" id="text9" zorder="22" filename="text490606515" width="111" height="35" html="" left="310" top="901" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVHdpdHRlcg0K
+</rvf></Component><Component type="3" id="image4" zorder="23" filename="image490606515" left="269" top="900" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" thumbname="thumb488638390" resamplename="img488638390" exportfilename="images/01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/><Component type="2" id="text10" zorder="24" filename="text490606515" width="95" height="24" html="" left="398" top="904" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRm9s
+bG93IG1lDQo=
+</rvf></Component><Component type="3" id="image5" zorder="25" filename="image490606515" left="478" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638406" resamplename="img488638406" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/><Component type="3" id="image1" zorder="1" filename="image481058765" left="178" top="13" width="426" height="73" originwidth="348" originheight="60" src="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" thumbname="thumb354616312" resamplename="img354616328" exportfilename="images/41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" fp="1" lp="1"/></body></page><page id="p483320171" pageindex="2" name="photos" pp="1" cp="1"><body generator="0" bgimage="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgpreview="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgfixed="fixed" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="1" bgoutput="images/design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgsoutput="" bsp="1"><Component type="3" id="image1" zorder="1" filename="image483320234" left="178" top="12" width="426" height="73" originwidth="348" originheight="60" src="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" thumbname="thumb354616312" resamplename="img354616328" exportfilename="images/41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" fp="1" lp="1"/><Component type="4" id="shape1" zorder="0" filename="shape483320234" width="1330" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeANSDG.gif" left="0" top="11" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape483320234.gif" lp="1"/><Component type="2" id="text1" zorder="2" filename="text483320234" width="410" height="78" html="" left="241" top="25" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="page://p350480562" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" class="ws22"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqoAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpCYXVoYXVzIDkzBFNpemUCFgVTdHlsZQsGZnNCb2xkAAVDb2xvcgTM
+//8AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGCkJhdWhhdXMg
+OTMEU2l6ZQIWBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYKQmF1aGF1cyA5MwRTaXplAhYFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpTSFVCSEFOS0lUDQo1
+IDEgLTEgMSAwIDANCiANCjQgMSAtMSAxIDAgMA0KUkFUSE9SRQ0K
+</rvf></Component><Component type="4" id="shape3" zorder="3" filename="shape483320218" width="774" height="53" bgcolor="#000000" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeH7BPT.gif" left="255" top="889" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape483320218.gif" lp="1"/><Component type="3" id="image2" zorder="5" filename="image483320187" left="200" top="166" width="299" height="44" originwidth="299" originheight="44" src="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb488638843" resamplename="img488638843" exportfilename="images/41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" fp="1" lp="1"/><Component type="10" id="roundrect5" zorder="4" filename="roundrect483320187" width="917" height="638" fillstyle="0" spborder="0" fromcolor="#000000" shapetype="1" radius="20" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeGPR7A.gif" left="201" top="210" bordercolor="#808080" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" fp="1" exportfilename="images/roundrect483320187.gif" lp="1"/><Component type="2" id="text6" zorder="6" filename="text483320187" width="96" height="36" html="" left="224" top="174" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Georgia" style="font-size:27px;"&gt;&lt;B&gt;Photos&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Georgia" class="ws20"&gt;&lt;B&gt;Photos&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdHZW9yZ2lhBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xB
+cXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KUGhvdG9zDQo=
+</rvf></Component><Component type="2" id="text8" zorder="7" filename="text483320187" width="150" height="90" html="Double click to edit text" left="224" top="344" fp="1" lp="1" backup="1"/><Component type="2" id="text13" zorder="8" filename="text483320187" width="422" height="253" html="" left="229" top="324" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Harlow Solid Italic" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Harlow Solid Italic" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhNIYXJsb3cgU29saWQgSXRhbGljBFNpemUCFAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCg0K
+</rvf></Component><Component type="4" id="shape2" zorder="9" filename="shape483320171" width="252" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeSR3Q5.gif" left="223" top="211" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape483320171.gif" fp="1" lp="1"/><Component type="3" id="image3" zorder="10" filename="image483587593" left="226" top="242" width="311" height="191" originwidth="2048" originheight="1150" src="WSB://images\1614620_10202604197499880_1792810656_o1.jpg" previewfile="WSB://images\1614620_10202604197499880_1792810656_o1.jpg" thumbname="thumb488638859" resamplename="img488638859" exportfilename="images/1614620_10202604197499880_1792810656_o1.jpg" fp="1" lp="1"/><Component type="3" id="image8" zorder="11" filename="image484497031" left="2154" top="1696" width="13" height="10" originwidth="2048" originheight="1536" src="WSB://images\10358925_10202984246360864_6112000312851976070_o1.jpg" previewfile="WSB://images\10358925_10202984246360864_6112000312851976070_o1.jpg" thumbname="thumb488638875" resamplename="img488638875" exportfilename="images/10358925_10202984246360864_6112000312851976070_o1.jpg" fp="1" lp="1"/><Component type="3" id="image10" zorder="12" filename="image484497218" left="810" top="246" width="287" height="190" originwidth="3696" originheight="2448" src="WSB://images\DSC_9385.JPG" previewfile="WSB://images\DSC_9385.JPG" thumbname="thumb488638937" resamplename="img488638937" exportfilename="images/DSC_9385.JPG" fp="1" lp="1"/><Component type="3" id="image11" zorder="13" filename="image484497234" left="818" top="531" width="277" height="185" originwidth="4000" originheight="2667" src="WSB://images\flute3.jpg" previewfile="WSB://images\flute3.jpg" thumbname="thumb488638984" resamplename="img488638984" exportfilename="images/flute3.jpg" fp="1" lp="1"/><Component type="3" id="image12" zorder="14" filename="image484497843" left="624" top="326" width="160" height="289" originwidth="3159" originheight="5698" src="WSB://images\IMG_6871.jpg" previewfile="WSB://images\IMG_6871.jpg" thumbname="thumb488639000" resamplename="img488639000" exportfilename="images/IMG_6871.jpg" fp="1" lp="1"/><Component type="3" id="image13" zorder="15" filename="image484498312" left="276" top="523" width="320" height="181" originwidth="5629" originheight="3197" src="WSB://images\IMG_6873.jpg" previewfile="WSB://images\IMG_6873.jpg" thumbname="thumb488639015" resamplename="img488639015" exportfilename="images/IMG_6873.jpg" fp="1" lp="1"/><Component type="12" id="html1" zorder="16" filename="html486575593" script="&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Shubhankit.Rathore&quot; data-width=&quot;200&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;" width="240" height="42" left="520" top="160" notlimitsize="0" fp="1" lp="1"/><Component type="12" id="html2" zorder="17" filename="html488200328" script="&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;" width="200" height="125" left="49" top="64" fp="1" lp="1"/><Component type="5" id="nav1" zorder="18" filename="nav489785265" fontname="Play" fontsize="14" fontcolor="16777164" fontstyle="1" activecolor="39423" navspace="5" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="25" normalimage="WSB://images\rectb01in.gif" mouseoverimage="WSB://images\rectb01over.gif" mouseoversound="" navtext0="Home" navurl0="page://p350480562" navtarget0="" navstate0="0" navtext1="Music" navurl1="page://p481058703" navtarget1="" navstate1="0" navtext2="Photos" navurl2="page://p483320171" navtarget2="" navstate2="0" navtext3="Contact" navurl3="page://p487036812" navtarget3="" navstate3="0" navtarget4="" navcount="4" width="740" height="25" preview="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\Nav79GJG" left="279" top="76" exportfilename="images/nav489785265" exportsound="" fp="1" lp="1"/><Component type="2" id="text7" zorder="19" filename="text490493921" width="111" height="35" html="" left="781" top="900" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRmFjZWJvb2sNCg==
+</rvf></Component><Component type="3" id="image6" zorder="20" filename="image490493921" left="740" top="899" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" thumbname="thumb488638421" resamplename="img488638421" exportfilename="images/b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="2" id="text11" zorder="21" filename="text490493921" width="95" height="24" html="" left="887" top="903" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQmVj
+b21lIGEgZmFuDQo=
+</rvf></Component><Component type="3" id="image7" zorder="22" filename="image490493921" left="990" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638437" resamplename="img488638437" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="2" id="text9" zorder="23" filename="text490613812" width="111" height="35" html="" left="310" top="901" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVHdpdHRlcg0K
+</rvf></Component><Component type="3" id="image4" zorder="24" filename="image490613812" left="269" top="900" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" thumbname="thumb488638390" resamplename="img488638390" exportfilename="images/01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/><Component type="2" id="text10" zorder="25" filename="text490613812" width="95" height="24" html="" left="398" top="904" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRm9s
+bG93IG1lDQo=
+</rvf></Component><Component type="3" id="image5" zorder="26" filename="image490613812" left="478" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638406" resamplename="img488638406" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/></body></page><page id="p487036812" pageindex="3" name="contact" pp="1" cp="1"><body generator="0" bgimage="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgpreview="WSB://images\design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgfixed="fixed" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="1" bgoutput="images/design gradient floral black background floral texture_wallpaperswa.com_98.jpg" bgsoutput="" bsp="1"><Component type="3" id="image1" zorder="1" filename="image487036875" left="178" top="12" width="426" height="73" originwidth="348" originheight="60" src="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" thumbname="thumb354616312" resamplename="img354616328" exportfilename="images/41d000_4cb378833b7ca607a01d7db69d625ff9.png_srz_p_348_60_75_22_0.50_1.20_0.png" fp="1" lp="1"/><Component type="4" id="shape1" zorder="0" filename="shape487036875" width="1330" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shape07R6L.gif" left="0" top="11" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape487036875.gif" lp="1"/><Component type="2" id="text1" zorder="2" filename="text487036875" width="410" height="78" html="" left="241" top="25" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="page://p350480562" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" style="font-size:29px;"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;SHUBHANKIT&lt;/B&gt;&lt;/font&gt;&lt;font face="Bauhaus 93" class="ws22"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#FF9900" face="Bauhaus 93" class="ws22"&gt;&lt;B&gt;RATHORE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqoAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpCYXVoYXVzIDkzBFNpemUCFgVTdHlsZQsGZnNCb2xkAAVDb2xvcgTM
+//8AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGCkJhdWhhdXMg
+OTMEU2l6ZQIWBVN0eWxlCwZmc0JvbGQABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYKQmF1aGF1cyA5MwRTaXplAhYFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpTSFVCSEFOS0lUDQo1
+IDEgLTEgMSAwIDANCiANCjQgMSAtMSAxIDAgMA0KUkFUSE9SRQ0K
+</rvf></Component><Component type="4" id="shape3" zorder="3" filename="shape487036859" width="774" height="53" bgcolor="#000000" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeUCKTG.gif" left="255" top="889" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape487036859.gif" lp="1"/><Component type="3" id="image2" zorder="5" filename="image487036843" left="200" top="166" width="299" height="44" originwidth="299" originheight="44" src="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb488639203" resamplename="img488639203" exportfilename="images/41d000_bbde5df8bc11631783b02ab7740eeaf7.png_srz_p_299_44_75_22_0.50_1.20_0.png" fp="1" lp="1"/><Component type="10" id="roundrect5" zorder="4" filename="roundrect487036843" width="917" height="638" fillstyle="0" spborder="0" fromcolor="#000000" shapetype="1" radius="20" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeD81KL.gif" left="201" top="210" bordercolor="#808080" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" fp="1" exportfilename="images/roundrect487036843.gif" lp="1"/><Component type="2" id="text6" zorder="6" filename="text487036828" width="125" height="36" html="" left="224" top="174" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Georgia" style="font-size:27px;"&gt;&lt;B&gt;Contact&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Georgia" class="ws20"&gt;&lt;B&gt;Contact&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdHZW9yZ2lhBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xB
+cXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQ29udGFjdA0K
+</rvf></Component><Component type="2" id="text8" zorder="7" filename="text487036828" width="150" height="90" html="Double click to edit text" left="224" top="344" fp="1" lp="1" backup="1"/><Component type="2" id="text13" zorder="8" filename="text487036828" width="422" height="253" html="" left="229" top="324" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Harlow Solid Italic" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Harlow Solid Italic" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhNIYXJsb3cgU29saWQgSXRhbGljBFNpemUCFAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCg0K
+</rvf></Component><Component type="4" id="shape2" zorder="9" filename="shape487036812" width="252" height="5" bgcolor="#E74B01" previewfile="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\shapeNUL8S.gif" left="223" top="211" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape487036812.gif" fp="1" lp="1"/><Component type="12" id="html2" zorder="10" filename="html487036812" script="&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Shubhankit.Rathore&quot; data-width=&quot;200&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;" width="240" height="42" left="520" top="160" notlimitsize="0" fp="1" lp="1"/><Component type="2" id="text7" zorder="11" filename="text487141781" width="738" height="90" html="" left="230" top="256" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="KaiTi" style="font-size:24px;"&gt;JUST ENTER YOUR DETAILS AND SEND YOUR MESSAGE......&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="KaiTi" class="ws18"&gt;JUST ENTER YOUR DETAILS AND SEND YOUR MESSAGE......&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrtAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVLYWlUaQRTaXplAhIFQ29sb3IEzP//AAAALTkgMiAwIDAgMiAwIDIN
+CnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBh
+b1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAw
+IDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkpVU1QgRU5URVIgWU9VUiBERVRBSUxTIEFORCBT
+RU5EIFlPVVIgTUVTU0FHRS4uLi4uLg0K
+</rvf></Component><Component type="14" id="formtext1" zorder="12" filename="form487190359" formtype="3" formname="formtext1" width="575" height="28" left="350" top="388" formvalue="" maxlength="0" inputtype="0" fp="1" lp="1"/><Component type="14" id="formtext2" zorder="13" filename="form487263593" formtype="3" formname="formtext2" width="575" height="32" left="350" top="426" formvalue="" maxlength="0" inputtype="0" fp="1" lp="1"/><Component type="14" id="formtext3" zorder="14" filename="form487264265" formtype="3" formname="formtext3" width="575" height="25" left="350" top="462" formvalue="" maxlength="0" inputtype="0" fp="1" lp="1"/><Component type="14" id="textarea1" zorder="15" filename="form487423250" formtype="4" formname="textarea1" width="575" height="125" left="350" top="504" formvalue="" fp="1" lp="1"/><Component type="2" id="text14" zorder="16" filename="text487450593" width="90" height="37" html="" left="258" top="384" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" style="font-size:24px;"&gt;Name&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" class="ws18"&gt;Name&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrsAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEgVDb2xvcgTM//8AAAAtOSAyIDAgMCAyIDAgMg0K
+cnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFv
+U3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTmFtZQ0K
+</rvf></Component><Component type="2" id="text15" zorder="17" filename="text487491593" width="90" height="37" html="" left="255" top="425" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" style="font-size:24px;"&gt;E-Mail&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" class="ws18"&gt;E-Mail&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrsAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEgVDb2xvcgTM//8AAAAtOSAyIDAgMCAyIDAgMg0K
+cnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFv
+U3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRS1NYWlsDQo=
+</rvf></Component><Component type="2" id="text16" zorder="18" filename="text487501171" width="90" height="37" html="" left="255" top="460" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" style="font-size:24px;"&gt;Subject&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" class="ws18"&gt;Subject&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrsAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEgVDb2xvcgTM//8AAAAtOSAyIDAgMCAyIDAgMg0K
+cnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFv
+U3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KU3ViamVjdA0K
+</rvf></Component><Component type="2" id="text17" zorder="19" filename="text487524156" width="103" height="37" html="" left="251" top="542" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" style="font-size:24px;"&gt;Message&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Play" class="ws18"&gt;Message&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrsAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEgVDb2xvcgTM//8AAAAtOSAyIDAgMCAyIDAgMg0K
+cnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFv
+U3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTWVzc2FnZQ0K
+</rvf></Component><Component type="14" id="formbutton1" zorder="20" filename="form487588703" formtype="2" formname="Send" buttontype="1" width="120" height="25" left="806" top="667" formvalue="" fp="1" lp="1"/><Component type="12" id="html1" zorder="21" filename="html488202328" script="&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;" width="200" height="125" left="49" top="64" fp="1" lp="1"/><Component type="5" id="nav1" zorder="22" filename="nav489788625" fontname="Play" fontsize="14" fontcolor="16777164" fontstyle="1" activecolor="39423" navspace="5" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="25" normalimage="WSB://images\rectb01in.gif" mouseoverimage="WSB://images\rectb01over.gif" mouseoversound="" navtext0="Home" navurl0="page://p350480562" navtarget0="" navstate0="0" navtext1="Music" navurl1="page://p481058703" navtarget1="" navstate1="0" navtext2="Photos" navurl2="page://p483320171" navtarget2="" navstate2="0" navtext3="Contact" navurl3="page://p487036812" navtarget3="" navstate3="0" navtarget4="" navcount="4" width="740" height="25" preview="C:\Users\Ankit\AppData\Local\Temp\Web Page Maker\docO72VU\Nav4TTFO" left="279" top="76" exportfilename="images/nav489788625" exportsound="" fp="1" lp="1"/><Component type="2" id="text11" zorder="23" filename="text490500843" width="111" height="35" html="" left="781" top="900" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Facebook&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRmFjZWJvb2sNCg==
+</rvf></Component><Component type="3" id="image3" zorder="24" filename="image490500843" left="740" top="899" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" thumbname="thumb488638421" resamplename="img488638421" exportfilename="images/b1cd13f9d4dfb1450bbb325285106177.png_srz_p_30_30_85_22_0.50_1.20_0.png" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="2" id="text12" zorder="25" filename="text490500843" width="95" height="24" html="" left="887" top="903" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Become a fan&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQmVj
+b21lIGEgZmFuDQo=
+</rvf></Component><Component type="3" id="image6" zorder="26" filename="image490500859" left="990" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638437" resamplename="img488638437" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://www.facebook.com/Shubhankit.Rathore"/><Component type="2" id="text9" zorder="27" filename="text490620984" width="111" height="35" html="" left="310" top="901" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" style="font-size:21px;"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Play" class="ws16"&gt;&lt;B&gt;Twitter&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgRQbGF5BFNpemUCEAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xBcXVh
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVHdpdHRlcg0K
+</rvf></Component><Component type="3" id="image4" zorder="28" filename="image490620984" left="269" top="900" width="30" height="30" originwidth="30" originheight="30" src="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" previewfile="WSB://images\01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" thumbname="thumb488638390" resamplename="img488638390" exportfilename="images/01113281ebb7dfb57a8dc2a02eb1cb92.png_srz_p_30_30_85_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/><Component type="2" id="text10" zorder="29" filename="text490620984" width="95" height="24" html="" left="398" top="904" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" style="font-size:19px;"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FFFF" face="Shonar Bangla" class="ws14"&gt;&lt;B&gt;Follow me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1TaG9uYXIgQmFuZ2xhBFNpemUCDgVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgcGY2xBcXVhAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRm9s
+bG93IG1lDQo=
+</rvf></Component><Component type="3" id="image5" zorder="30" filename="image490620984" left="478" top="906" width="21" height="20" originwidth="21" originheight="20" src="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" previewfile="WSB://images\41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" thumbname="thumb488638406" resamplename="img488638406" exportfilename="images/41d000_f486b7af7e4bc448eb2ec5a59d8afecc.png_srz_p_21_20_75_22_0.50_1.20_0.png" fp="1" lp="1" linkurl="https://twitter.com/ShubhankitR"/></body></page><page id="p488649093" pageindex="4" name="admin" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text488675343" width="838" height="61" html="" left="120" top="12" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#993300" face="OCR A Extended" style="font-size:48px;"&gt;&lt;B&gt;ADMIN PANEL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#993300" face="OCR A Extended" class="ws36"&gt;&lt;B&gt;ADMIN PANEL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoDAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5PQ1IgQSBFeHRlbmRlZARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29s
+b3IDmTMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24H
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50
+ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50Bwhy
+dmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlv
+bnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5z
+AARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpBRE1JTiBQ
+QU5FTA0K
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text489960203" width="169" height="40" html="" left="145" top="163" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Myanmar Text" style="font-size:27px;"&gt;Upload Song&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Myanmar Text" class="ws20"&gt;Upload Song&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrpAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgxNeWFubWFyIFRleHQEU2l6ZQIUAAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5
+bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVXBsb2FkIFNvbmcNCg==
+</rvf></Component><Component type="14" id="formbutton1" zorder="2" filename="form489996968" formtype="2" formname="Submit" buttontype="1" width="120" height="25" left="390" top="388" formvalue="Submit" fp="1" lp="1"/><Component type="2" id="text3" zorder="3" filename="text490043703" width="102" height="25" html="" left="150" top="212" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Times New Roman" style="font-size:21px;"&gt;Select file&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Times New Roman" class="ws16"&gt;Select file&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrsAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQAAAtOSAyIDAgMCAyIDAgMg0K
+cnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFv
+U3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KU2VsZWN0IGZpbGUNCg==
+</rvf></Component><Component type="2" id="text4" zorder="4" filename="text490081843" width="150" height="90" html="" left="153" top="300" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Times New Roman" style="font-size:21px;"&gt;Name Of Song&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Times New Roman" class="ws16"&gt;Name Of Song&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrsAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQAAAtOSAyIDAgMCAyIDAgMg0K
+cnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFv
+U3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTmFtZSBPZiBTb25nDQo=
+</rvf></Component><Component type="14" id="formtext1" zorder="5" filename="form490110625" formtype="3" formname="formtext1" width="200" height="25" left="151" top="338" fp="1" lp="1"/><Component type="2" id="text5" zorder="6" filename="text490189812" width="169" height="40" html="" left="149" top="459" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Myanmar Text" style="font-size:27px;"&gt;Upload Photo&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Myanmar Text" class="ws20"&gt;Upload Photo&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrpAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgxNeWFubWFyIFRleHQEU2l6ZQIUAAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5
+bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVXBsb2FkIFBob3RvDQo=
+</rvf></Component><Component type="2" id="text6" zorder="7" filename="text490189812" width="102" height="25" html="" left="154" top="508" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Times New Roman" style="font-size:21px;"&gt;Select file&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Times New Roman" class="ws16"&gt;Select file&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrsAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQAAAtOSAyIDAgMCAyIDAgMg0K
+cnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFv
+U3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAg
+NA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KU2VsZWN0IGZpbGUNCg==
+</rvf></Component><Component type="14" id="formbutton2" zorder="8" filename="form490209234" formtype="2" formname="formbutton2" buttontype="1" width="120" height="25" left="394" top="595" formvalue="Submit" fp="1" lp="1"/></body></page></site>
