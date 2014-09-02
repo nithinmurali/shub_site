@@ -115,11 +115,11 @@ function MM_swapImage() {
 <div><font color="#CCFFFF" face="KaiTi" class="ws18">JUST ENTER YOUR DETAILS AND SEND YOUR MESSAGE......</font></div>
 </div></div>
 
-<form id="contact_form" >
-<input name="name" required type="text" style="position:absolute;width:575px;left:350px;top:388px;z-index:12">
-<input name="email" required type="email" style="position:absolute;width:575px;left:350px;top:426px;z-index:13">
-<input name="subject" required id='submit_btn' type="text" style="position:absolute;width:575px;left:350px;top:462px;z-index:14">
-<textarea name="message" required style="position:absolute;left:350px;top:504px;width:575px;height:125px;z-index:15"></textarea>
+<form id="ajax-contact" method="post" action="mailer.php">
+<input type="text" id="name" name="name" required style="position:absolute;width:575px;left:350px;top:388px;z-index:12">
+<input type="email" id="email" name="email" required style="position:absolute;width:575px;left:350px;top:426px;z-index:13">
+<input name="subject" required id='subject' type="text" style="position:absolute;width:575px;left:350px;top:462px;z-index:14">
+<textarea id="message" name="message" required style="position:absolute;left:350px;top:504px;width:575px;height:125px;z-index:15"></textarea>
 <div id="text14" style="position:absolute; overflow:hidden; left:258px; top:384px; width:90px; height:37px; z-index:16">
 <div class="wpmd">
 <div><font color="#CCFFFF" face="Play" class="ws18">Name</font></div>
