@@ -110,6 +110,8 @@ function MM_swapImage() {
 <div id="html2" style="position:absolute; overflow:hidden; left:520px; top:160px; width:240px; height:42px; z-index:10">
 <div class="fb-like" data-href="https://www.facebook.com/Shubhankit.Rathore" data-width="200" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div></div>
 
+<div id='after_txt' style="position:absolute; overflow:hidden; left: 458px; top: 411px; width:738px; height:90px; z-index:27; display: none;"><font color="#CCFFFF" face="KaiTi" class="ws18">Thankyou for your comments......</font></div>
+
 <div id="text7" style="position:absolute; overflow:hidden; left:230px; top:256px; width:738px; height:90px; z-index:11">
 <div class="wpmd">
 <div><font color="#CCFFFF" face="KaiTi" class="ws18">JUST ENTER YOUR DETAILS AND SEND YOUR MESSAGE......</font></div>
@@ -228,6 +230,9 @@ $(function() {
       $('#email').val('');
       $('#subject').val('');
       $('#message').val('');
+
+      $('#roundrect5').css('z-index',25);
+      $('#after_txt').fadeIn('slow');
     })
     .fail(function(data) {
       // Make sure that the formMessages div has the 'error' class.
