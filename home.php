@@ -212,7 +212,7 @@ AC_RunFlashContent('width','774','height','451','quality','high','autoplay','tru
     foreach (scandir($directory) as $file) {
         if ( $top == $file) { 
       
-        echo ' <li><a href="#" data-src="songs/'. $file .'">'. substr($file,0,strrpos($file,'.')) .'</a></li>';
+        echo ' <li><a href="#" data-src="songs/'. $file .'">'. substr($file,0,strrpos($file,'.')) .'</a><a href="songs/'. $file .'"><span>download</span></a></li>';
         }
     }
      
@@ -220,7 +220,7 @@ AC_RunFlashContent('width','774','height','451','quality','high','autoplay','tru
         if ('.' === $file) continue;
         if ('..' === $file) continue;
         if ( $top === $file) continue;
-         echo ' <li><a href="#" data-src="songs/'. $file .'">'. substr($file,0,strrpos($file,'.')) .'</a></li>';
+         echo ' <li><a href="#" data-src="songs/'. $file .'">'. substr($file,0,strrpos($file,'.')) .'</a><a href="songs/'. $file .'"><span>download</span></a></li>';
     }
 
       ?>
